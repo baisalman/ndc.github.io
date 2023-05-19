@@ -10,7 +10,7 @@
 }
 
 :root {
-  --blue: #100a3e;
+  --blue: #1a163e;
   --white: #fff;
   --gray: #f5f5f5;
   --black1: #222;
@@ -100,6 +100,19 @@ body {
   height: 60px;
   line-height: 75px;
   text-align: center;
+}
+
+.navigation ul li .personal {
+  position: relative;
+  display:;
+  color: var(--white);
+  min-width: 60px;
+  height: 60px;
+  line-height: 75px;
+  text-align: left;
+}
+.navigation ul li a .personal:hover{
+  color: #100a3e;
 }
 
 .navigation ul li a .icon ion-icon {
