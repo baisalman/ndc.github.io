@@ -247,6 +247,15 @@ body {
   object-fit: cover;
 }
 
+.main h6 {
+  position:relative;
+  justify-content: center;
+  width: 200%;
+  padding-top: 10%;
+  
+  overflow: hidden;
+}
+
 /* ====================== Responsive Design ========================== */
 @media (max-width: 991px) {
   .navigation {
