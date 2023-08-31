@@ -202,8 +202,8 @@ body {
 
 .search {
   position: relative;
-  width: 400px;
-  margin: 0 10px;
+  width: 200px;
+  margin: 0px 0px;
 }
 
 .search label {
@@ -213,9 +213,9 @@ body {
 
 .search label input {
   width: 100%;
-  height: 40px;
+  height: 100px;
   border-radius: 40px;
-  padding: 5px 20px;
+  padding: 5px 50px;
   padding-left: 35px;
   font-size: 18px;
   outline: none;
@@ -246,7 +246,6 @@ body {
   height: 100%;
   object-fit: cover;
 }
-
 
 /* ====================== Responsive Design ========================== */
 @media (max-width: 991px) {
